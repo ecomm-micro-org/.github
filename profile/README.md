@@ -2,6 +2,9 @@
 
 This repository contains the source code, infrastructure, and configuration for a microservices-based e-commerce application.
 
+## Design
+![system desig](https://github.com/ecomm-micro-org/.github/blob/main/profile/architecture.png?raw=true)
+
 ## Application Services & Port Mappings
 
 Here is the list of all internal application microservices, where their source code is located, and the ports they are configured to run on.
